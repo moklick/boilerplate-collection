@@ -6,6 +6,7 @@ A List of useful Boilerplate Code for Web Projects.
 Node, Express, MongoDB, Backbone Marionette, Jade, Require
 
 [Hackathon Starter](https://github.com/sahat/hackathon-starter)
+Node, MongoDB, OAuth
 
 ### Back
 [Node Bootstrap](https://github.com/inadarei/nodebootstrap)
