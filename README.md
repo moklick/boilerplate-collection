@@ -5,6 +5,8 @@ A List of useful Boilerplate Code for Web Projects.
 [Webapp Boilerplate](https://github.com/skaapgif/webapp-boilerplate)
 Node, Express, MongoDB, Backbone Marionette, Jade, Require
 
+[Hackathon Starter](https://github.com/sahat/hackathon-starter)
+
 ### Back
 [Node Bootstrap](https://github.com/inadarei/nodebootstrap)
 Generator for NodeJS Projects with lots of build in features
