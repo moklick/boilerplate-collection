@@ -8,6 +8,9 @@ Node, Express, MongoDB, Backbone Marionette, Jade, Require
 [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 Node, MongoDB, OAuth
 
+[B.E.N.M](https://github.com/jkat98/benm)
+Backbone, Express, Node, MongoDB
+
 ### Back
 [Node Bootstrap](https://github.com/inadarei/nodebootstrap)
 Generator for NodeJS Projects with lots of build in features
