@@ -31,6 +31,8 @@ Clean, simple CSS starting point.
 [Webapp Boilerplate](https://github.com/kriasoft/web-app-boilerplate)
 Gulp, Less, Cross-Browser
 
+[HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
+
 [HTML5 Boilerplate Mobile](https://github.com/h5bp/mobile-boilerplate)
 The famous HTML5 Boilerplate optimized for mobile applications
 
