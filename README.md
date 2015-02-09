@@ -15,6 +15,9 @@ Generator for NodeJS Projects with lots of build in features
 [Nodejs Boilerplate](https://github.com/pinceladasdaweb/nodejs-boilerplate)
 Node, Express, Handlebars
 
+[Node Boilerplate](https://github.com/robrighter/node-boilerplate)
+Node, Express, Socket.io
+
 ### Front
 [Starterkit Webapp](https://github.com/wbkd/starterkit-webapp)
 Gulp, Stylus, Webpack
