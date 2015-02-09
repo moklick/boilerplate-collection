@@ -18,6 +18,9 @@ Node, Express, Handlebars
 [Node Boilerplate](https://github.com/robrighter/node-boilerplate)
 Node, Express, Socket.io
 
+[Express Generator](http://expressjs.com/starter/generator.html)
+A Command Line Tool for generating Express applications.
+
 ### Front
 [Starterkit Webapp](https://github.com/wbkd/starterkit-webapp)
 Gulp, Stylus, Webpack
