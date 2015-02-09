@@ -24,3 +24,8 @@ React, Gulp, Stylus, Webpack
 
 [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate)
 Backbone, Require
+
+[Skeleton CSS](http://getskeleton.com/)
+Clean, simple CSS starting point.
+
+
