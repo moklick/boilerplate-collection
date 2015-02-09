@@ -33,3 +33,6 @@ Gulp, Less, Cross-Browser
 
 [HTML5 Boilerplate Mobile](https://github.com/h5bp/mobile-boilerplate)
 The famous HTML5 Boilerplate optimized for mobile applications
+
+[Google Web Starter Kit](https://github.com/google/web-starter-kit)
+HTML5, SCSS, Gulp
