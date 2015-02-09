@@ -18,3 +18,6 @@ Gulp, Stylus, Webpack
 
 [React Starterkit](https://github.com/wbkd/react-starterkit)
 React, Gulp, Stylus, Webpack
+
+[Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate)
+Backbone, Require
