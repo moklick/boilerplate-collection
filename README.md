@@ -2,7 +2,7 @@
 A List of useful Boilerplate Code for Web Projects.
 
 ### Front + Back
-[Yahoo Fluxible](https://github.com/yahoo/fluxible)
+[Yahoo Fluxible](http://fluxible.io/quick-start.html)
 Boilerplate for isomorphic React apps using Yeoman
 
 [Webapp Boilerplate](https://github.com/skaapgif/webapp-boilerplate)
