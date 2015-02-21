@@ -2,6 +2,9 @@
 A List of useful Boilerplate Code for Web Projects.
 
 ### Front + Back
+[Yahoo Fluxible](https://github.com/yahoo/fluxible)
+Boilerplate for isomorphic React apps using Yeoman
+
 [Webapp Boilerplate](https://github.com/skaapgif/webapp-boilerplate)
 Node, Express, MongoDB, Backbone Marionette, Jade, Require
 
