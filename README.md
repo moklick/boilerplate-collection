@@ -53,3 +53,5 @@ The famous HTML5 Boilerplate optimized for mobile applications
 
 [Google Web Starter Kit](https://github.com/google/web-starter-kit)
 HTML5, SCSS, Gulp
+
+[WEE](https://www.weepower.com/)
