@@ -55,3 +55,7 @@ The famous HTML5 Boilerplate optimized for mobile applications
 HTML5, SCSS, Gulp
 
 [WEE](https://www.weepower.com/)
+
+[frontend-boilerplate](https://github.com/tj/frontend-boilerplate)
+webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate
+
